@@ -8,10 +8,11 @@ Ian decides to take the chipmunks and exploit them, which Dave puts a stop to an
 ![image](https://user-images.githubusercontent.com/111938241/187819201-17fa80fa-2650-4624-ae2c-e17d20782f66.png)
 
 [IMDB Page](https://www.imdb.com/title/tt0952640/?ref_=ttls_li_tt)
+
 [Movie Trailer](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-  public class chipmunksInfo{
-    public static void main(String[] args){
-      System.out.println("Alvin and the Chipmunks, 2007");
+    public class chipmunksInfo{
+      public static void main(String[] args){
+        System.out.println("Alvin and the Chipmunks, 2007");
+        }
       }
-    }
