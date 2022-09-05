@@ -19,7 +19,7 @@ Before their tour can begin, a veterinarian explains to Ian that the Chipmunks' 
 
 [Movie Trailer](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-    public class chipmunksInfo{
+    public class ChipmunksInfo{
       public static void main(String[] args){
         System.out.println("Alvin and the Chipmunks, 2007");
         }
